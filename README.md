@@ -1,5 +1,7 @@
 # TenDollarWebcam
 
+*Note: Added mDNS (default name: esp32cam) and OTA to the original sketch by [geeksville](https://github.com/geeksville).*
+
 This little project has two goals:
 1. Be a little open source webcam (with so-so quality, but hey $10 and open source)
 2. Serve as an example app for the [Micro-RTSP](https://github.com/geeksville/Micro-RTSP)
